@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/student2/v3thomas/Desktop/pong/impact.xsl
+OUTFILE=/home/student2/v3thomas/Desktop/pong/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/home/student2/v3thomas/Desktop/pong
+LICENSE=iMPACT
+USER_INFO=iMPACT
